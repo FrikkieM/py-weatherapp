@@ -6,7 +6,7 @@ from PIL import Image, ImageTk
 HEIGHT = 500
 WIDTH = 600
 
-#API Key: 2451625f3b60fcc125e9b7024c451096
+#API Key: INSERT_YOUR_OPENWEATHER_API_KEY_HERE
 #API Call: api.openweathermap.org/data/2.5/forecast?q={city name},{country code}
 #WWW: https://openweathermap.org/appid
 
